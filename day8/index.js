@@ -21,6 +21,8 @@ let arrayPairSum = function (nums) {
 
 let res2 = arrayPairSum([6, 2, 6, 5, 1, 2]);
 
+// Two Sum II - Input array is sorted
+
 let twoSum = function (numbers, target) {
   let l = numbers.length,
     i = 0,
